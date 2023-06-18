@@ -1,6 +1,7 @@
 ### Hi there 👋, Syed Umer Shah
 #### Design & Development
-![Design & Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Ftech-banner&psig=AOvVaw3T7N8XmC5rIv9hHCQ5vTlZ&ust=1687194663577000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiPmJCozf8CFQAAAAAdAAAAABAJ)
+![Design & Development](![image](https://github.com/SyedUmerShah/SyedUmerShah/assets/101082333/13f03852-8573-4865-9d3b-ecc4a33c3b8b)
+)
 Skills: REACT / JS / HTML / CSS
 - 🔭 I’m currently working on JavaScript 
 - 🌱 I’m currently learning React 
