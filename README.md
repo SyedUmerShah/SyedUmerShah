@@ -1,6 +1,7 @@
 ### Hi there 👋, Syed Umer Shah
 #### Design & Development
-![Design & Development](![image](https://github.com/SyedUmerShah/SyedUmerShah/assets/101082333/13f03852-8573-4865-9d3b-ecc4a33c3b8b)
+![Design & Development](https://github.com/SyedUmerShah/SyedUmerShah/assets/101082333/67307cc2-3c41-42cb-a023-56b93ad482e8)
+)
 )
 Skills: REACT / JS / HTML / CSS
 - 🔭 I’m currently working on JavaScript 
